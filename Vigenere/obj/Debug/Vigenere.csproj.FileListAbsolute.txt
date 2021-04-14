@@ -1,0 +1,20 @@
+C:\Users\Стас\source\repos\Vigenere\Vigenere\bin\Debug\Vigenere.exe.config
+C:\Users\Стас\source\repos\Vigenere\Vigenere\bin\Debug\Vigenere.exe
+C:\Users\Стас\source\repos\Vigenere\Vigenere\bin\Debug\Vigenere.pdb
+C:\Users\Стас\source\repos\Vigenere\Vigenere\obj\Debug\Vigenere.csprojAssemblyReference.cache
+C:\Users\Стас\source\repos\Vigenere\Vigenere\obj\Debug\Vigenere.Form1.resources
+C:\Users\Стас\source\repos\Vigenere\Vigenere\obj\Debug\Vigenere.Properties.Resources.resources
+C:\Users\Стас\source\repos\Vigenere\Vigenere\obj\Debug\Vigenere.csproj.GenerateResource.cache
+C:\Users\Стас\source\repos\Vigenere\Vigenere\obj\Debug\Vigenere.csproj.CoreCompileInputs.cache
+C:\Users\Стас\source\repos\Vigenere\Vigenere\obj\Debug\Vigenere.exe
+C:\Users\Стас\source\repos\Vigenere\Vigenere\obj\Debug\Vigenere.pdb
+Z:\temp\Vigenere (1)\Vigenere\bin\Debug\Vigenere.exe.config
+Z:\temp\Vigenere (1)\Vigenere\bin\Debug\Vigenere.exe
+Z:\temp\Vigenere (1)\Vigenere\bin\Debug\Vigenere.pdb
+Z:\temp\Vigenere (1)\Vigenere\obj\Debug\Vigenere.csprojAssemblyReference.cache
+Z:\temp\Vigenere (1)\Vigenere\obj\Debug\Vigenere.Form1.resources
+Z:\temp\Vigenere (1)\Vigenere\obj\Debug\Vigenere.Properties.Resources.resources
+Z:\temp\Vigenere (1)\Vigenere\obj\Debug\Vigenere.csproj.GenerateResource.cache
+Z:\temp\Vigenere (1)\Vigenere\obj\Debug\Vigenere.csproj.CoreCompileInputs.cache
+Z:\temp\Vigenere (1)\Vigenere\obj\Debug\Vigenere.exe
+Z:\temp\Vigenere (1)\Vigenere\obj\Debug\Vigenere.pdb
